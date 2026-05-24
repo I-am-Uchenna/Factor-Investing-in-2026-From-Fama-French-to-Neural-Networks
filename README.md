@@ -8,7 +8,7 @@ A comprehensive, reproducible walkthrough of modern factor investing: from class
 
 Accompanies the Medium article: [Factor Investing in 2026: From Fama-French to Neural Networks, and Everything That Can Go Wrong in Between](https://medium.com/@uchenna)
 
-![Cumulative wealth from factor portfolios](figures/fig2_cumulative_wealth.png)
+<img width="2574" height="1373" alt="fig2_cumulative_wealth" src="https://github.com/user-attachments/assets/6bb61271-0b86-4465-b95b-a7571dfdbe9a" />
 
 ---
 
